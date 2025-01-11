@@ -24,6 +24,7 @@
 
 ## 3 лабораторная
 Дана иерархия животного царства:  
+![диаграмма иерархии животного царства](./images/3.jpg)
 Создать метод segregate вида:  
 segregate(SrcCollection, Collection1, Collection2,
 Collection3)  
